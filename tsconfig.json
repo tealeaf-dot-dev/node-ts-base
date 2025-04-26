@@ -12,7 +12,7 @@
         "noUnusedLocals": true,             // report errors on unused local variables.
         "noUnusedParameters": true,         // report errors on unused function parameters.
         "noFallthroughCasesInSwitch": true, // prevent fallthrough between switch cases unless explicitly handled.
-        "outDir": "dist",                  // output compiled JavaScript files to the 'dist' directory.
+        "outDir": "dist",                   // output compiled JavaScript files to the 'dist' directory.
         "esModuleInterop": true,            // enable default imports from modules with CommonJS exports.
         "sourceMap": true,                  // generate source map files for easier debugging.
         "rootDir": "src",                   // specify the root directory of input TypeScript files.

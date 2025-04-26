@@ -11,9 +11,9 @@ export default [
         files: ['src/**/*.ts'],
         languageOptions: {
             parserOptions: {
-                projectService: true,   // Enables type-aware linting
-                ecmaVersion: 2023,      // Latest ECMAScript syntax support
-                sourceType: 'module',   // Use ES modules
+                projectService: true,   // enables type-aware linting
+                ecmaVersion: 2023,      // latest ECMAScript syntax support
+                sourceType: 'module',   // use ES modules
             },
             globals: {
                 node: 'readonly',       // Node.js global variables
